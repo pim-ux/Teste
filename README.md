@@ -20,15 +20,15 @@
 - Colour Contrast Analyzer
 
 
-### Report Homepage
+## Report Homepage
 Page: https://www.murciasalud.es/
 
-| Problem | Description + Soluction | Success Criteria |
+| Problem | Description | Success Criteria |
 | :---         | :---           | :---          |
-| git status   | git status     | git status    |
+| git status   | Adding a link at the top of each page that goes directly to the main content area | [2.4.1: Bypass Blocks](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) |
 | git diff     | git diff       | git diff      |
 
 
-### Report Contacto
+## Report Contacto
 Page: https://www.murciasalud.es/en/web/cuidar-y-paliar/contacto
 
